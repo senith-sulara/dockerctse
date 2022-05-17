@@ -25,7 +25,7 @@ spec:
         app: ctsedocker
     spec:
       containers:
-      - image: senith26450/it19143828{{tag}}
+      - image: senith26450/it19143828:{{tag}}
         imagePullPolicy: Always
         name: it19143828
         resources: {}
